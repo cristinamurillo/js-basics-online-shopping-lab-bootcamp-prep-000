@@ -75,7 +75,6 @@ function placeOrder(cardNumber) {
   } else {
     var total = total()
     
-    
   }
   }
 }
